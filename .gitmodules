@@ -1,0 +1,3 @@
+[submodule "edition/src/assets"]
+	path = edition/src/assets
+	url = git@github.com:estoriadigital/shared-edition-assets.git

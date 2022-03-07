@@ -1,0 +1,7 @@
+edition/node_modules
+edition/dist
+edition/src/assets/data/*.js
+edition/src/assets/data/*.json
+edition/src/assets/data/reader
+edition/src/assets/data/transcription
+edition/src/assets/data/critical

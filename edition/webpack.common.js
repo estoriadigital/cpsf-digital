@@ -23,7 +23,10 @@ module.exports = {
       patterns: [
         {context: path.resolve(__dirname, "src/assets"),
           from: "data",
-         to: path.resolve(__dirname, "dist/data")}
+         to: path.resolve(__dirname, "dist/data")},
+        {context: path.resolve(__dirname, "src"),
+          from: "audio",
+         to: path.resolve(__dirname, "dist/audio")}
       ]
     })
   ],

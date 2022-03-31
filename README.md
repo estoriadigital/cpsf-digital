@@ -70,3 +70,9 @@ will server the edition.
 
 For the estoria-admin tools to work properly the collation directory in this repository must be sym linked to the data
 directory in the location serving the edition.
+
+
+Referencing
+----
+To cite this resource use:
+Polly Duxfield (ed.) Transcriptions of [manuscript sigla, textual division(s), anonymous block(s], The Crónica Particular de San Fernando Digital v1.0, (Birmingham: University of Birmingham, 2018) estoria.bham.ac.uk/CPSF [date accessed]

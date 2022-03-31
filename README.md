@@ -1,7 +1,8 @@
 Introduction
 ----
-This repository contains the scripts and data which was used to create the Crónica particular de San Fernando edition. The copyright of the
-images prevents them from being shared openly.
+This repository contains the scripts and data which was used to create the Crónica particular de San Fernando edition.
+The XML transcription data is available in the cpsf-transcriptions repository which is included as a submodule. The copyright
+of the images prevents them from being shared openly.
 
 This repository can be used to rebuild some of the edition data (excluding images) or the data can be built later using
 the editoria admin tools. The critical edition data can only be rebuild using the estoria-admin tools.
@@ -24,7 +25,7 @@ Clone the repository into a directory which is not used for serving the files (e
 the files will be moved to the location from which it will be served. In the example below the repository was cloned as
 **cpsf-digital**.
 
-The repository has a submodule which must also be initialised as follows.
+The repository has two submodules which must also be initialised as follows.
 
 ```bash
 git submodule init
